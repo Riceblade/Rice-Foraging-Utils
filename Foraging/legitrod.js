@@ -9,7 +9,7 @@ const LegitRod = () => {
         if (config.Toggled == true){
             if (config.moduleMode == 0) {
             for (let i = 0; i < 9; i++) {
-                if (Player.getInventory().getStackInSlot(i) !== null && Player.getInventory().getStackInSlot(i).getName().removeFormatting().toLowerCase().includes("fishing rod")) {
+                if (Player.getInventory().getStackInSlot(i) !== null && Player.getInventory().getStackInSlot(i).getName().removeFormatting().toLowerCase().includes("rod")) {
                     if (new Date().getTime() - lastSwap > 500) {
                         let Axe;
                         let Rod;
