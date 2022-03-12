@@ -1,0 +1,8 @@
+
+[general]
+	minimum_rod_delay = "300"
+	maximum_rod_delay = "500"
+	module_mode = 0
+	enable = true
+	ocelot_level = "100"
+

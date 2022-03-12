@@ -1,0 +1,7 @@
+{
+    "name": "ForagingUtils",
+    "creator": "Riceblades11",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "description": "just some help to make foraging less painful"
+}
