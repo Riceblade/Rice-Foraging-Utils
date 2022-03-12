@@ -1,7 +1,6 @@
 import Settings from "../config/config";
 import config from "../config/config";
-import { C08PacketPlayerBlockPlacement, RightClick, BP, C09PacketHeldItemChange } from "../utils/utils";
-import { RightClick } from "../utils/Utils";
+import { RightClick } from "../utils/utils";
 let lastSwap = new Date().getTime();
 
 const LegitRod = () => {
